@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Geometry.Core/Geometry.Core.csproj" />
+    <Project Path="src/Geometry.Demos/Geometry.Demos.csproj" />
+  </Folder>
+</Solution>
